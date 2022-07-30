@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Saloni chawda",
+    "Phone": 9098718114,
+    "Password": "Saloni@12",
+    "Age": 21,
+    "Discription": "student"
+  },
+  {
+    "Name": "Ranu chawda",
+    "Phone": 9755743691,
+    "Password": "Ranu@97",
+    "Age": 24,
+    "Discription": "job"
+  }
+]
